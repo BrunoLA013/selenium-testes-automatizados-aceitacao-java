@@ -32,6 +32,3 @@ public class PageObject {
 }
 
 
-
-
-        git remote add origin https://github.com/BrunoLA013/selenium-testes-automatizados-aceitacao-java.git
